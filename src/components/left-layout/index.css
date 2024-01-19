@@ -1,0 +1,29 @@
+.left-layout {
+    max-width: 460px;
+    width: 100%;
+    position: relative;
+}
+
+.box {
+    top: 206.12px;
+    margin-left: -93.07px;
+    position: absolute;
+    z-index: 1;
+}
+
+.lines {
+    position: absolute;
+}
+
+.photo {
+    margin-top: 70px;
+    position: absolute;
+}
+
+.responsive-photo {
+    display: none;
+}
+
+.responsive-photo-shadow {
+    display: none;
+}
